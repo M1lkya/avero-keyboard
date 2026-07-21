@@ -15,7 +15,7 @@ Some of the things I wanted were:
 
 At first, I tried designing my keyboard in a drawing program, but honestly, it didn't turn out that great. It looked pretty rough and wasn't really that professional. It was mostly just me figuring out what I wanted, and I ended up changing a lot of the ideas anyway.
 
-![First keyboard sketch in krita](INSERT_IMAGE_PATH_HERE)
+![First keyboard sketch in krita](https://github.com/M1lkya/avero-keyboard/blob/main/journal/photos/FirstDesignSketch.png)
 
 ## Moving to Figma
 
@@ -35,7 +35,7 @@ I also had to give up on my original idea of having a low-profile USB-C connecto
 
 ## Final Design(for now)
 
-![Final keyboard design](INSERT_IMAGE_PATH_HERE)
+![Final keyboard design](https://github.com/M1lkya/avero-keyboard/blob/main/journal/photos/Keyboard%20Top%20Design-Retro.png)
 
 ## Things Not Visible in the Design (Yet)
 
